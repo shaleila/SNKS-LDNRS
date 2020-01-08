@@ -1,0 +1,21 @@
+svg {
+  viewport-fill: #2F4F4F;
+}
+
+.num {
+  font-family: Fabrikat-Black;
+  font-size: 120;
+  fill: #FF0000;
+}
+
+.hrn {
+  font-family: Fabrikat-Bold;
+  font-size: 55;
+  fill: #FFFFFF;
+}
+
+.situation {
+  font-family: Fabrikat-Bold;
+  font-size: 60;
+  fill: #00DCFF;
+}

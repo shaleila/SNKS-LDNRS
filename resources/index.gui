@@ -1,0 +1,5 @@
+<svg>
+  <text id="num" x="10" y="32%" class="num">numberhere</text>
+  <text id="hrn" x="10" y="64%" class="hrn">heartrate</text>
+  <text id="situation" x="10" y="95%" class="situation">outcome</text>
+</svg>
